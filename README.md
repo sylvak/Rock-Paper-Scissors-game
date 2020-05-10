@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors-game
+ A simple implementation of grade-school classic “rock paper scissors.
